@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1097355858246",
+    "project_id": "aceapps-28ab8",
+    "storage_bucket": "aceapps-28ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097355858246:android:e301318bd32dc2d9ba5547",
+        "android_client_info": {
+          "package_name": "com.example.aceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkp3u-w9gMHbuRGoWiL8ULgmF6AJdGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097355858246:android:298cad28e6973d99ba5547",
+        "android_client_info": {
+          "package_name": "com.example.aceapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkp3u-w9gMHbuRGoWiL8ULgmF6AJdGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097355858246:android:d92c78411eaf8a44ba5547",
+        "android_client_info": {
+          "package_name": "com.example.aceshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkp3u-w9gMHbuRGoWiL8ULgmF6AJdGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
